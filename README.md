@@ -5,6 +5,7 @@
 
 ## Contents
 - [Awesome-SNN](#awesome-SNN)
+  - [Spiking Transformer](#spiking) 
   - [Review](#review)
   - [Frameworks](#frameworks)
   - [Datasets](#datasets)
@@ -17,6 +18,47 @@
     - [Event-Based Application](#event-based-application)
     - [Hardware Deployment](#hardware-deployment)
   - [Blogs](#blogs)
+
+## Spiking Transformer
+- spikformer（ICLR 2023, Spikformer: When Spiking Neural Network Meets Transformer）
+    https://github.com/ZK-Zhou/spikformer
+
+- Spike-Driven-Transformer（Nips2023）
+  - V1： https://github.com/BICLab/Spike-Driven-Transformer
+  - V2： https://github.com/BICLab/Spike-Driven-Transformer
+  - V3： https://github.com/bic-L/Masked-Spiking-Transformer
+  - 医学应用：https://github.com/BICLab/Spike2Former
+  - Decision making：https://github.com/Wei-Nijuan/DecisionSpikeFormer
+
+- SpikingResformer（CVPR2024）
+    https://github.com/xyshi2000/SpikingResformer
+
+- Spikingformer
+  - https://github.com/zhouchenlin2096/Spikingformer
+  - https://github.com/zhouchenlin2096/Spikingformer-CML
+
+- Masked-Spiking-Transformer
+    https://github.com/bic-L/Masked-Spiking-Transformer
+
+- QKFormer（"QKFormer: Hierarchical Spiking Transformer using Q-K Attention" (NeurIPS 2024，Spotlight 3%)
+    https://github.com/zhouchenlin2096/QKFormer
+
+- STAtten（Spiking Transformer with Spatial-Temporal Attention （CVPR2025））
+    https://github.com/BICLab/Spike2Former
+
+- QSD-Transformer（"Quantized Spike-driven Transformer" (ICLR2025)）
+    https://github.com/bollossom/QSD-Transformer
+
+- SGLFormer（Spiking Global-Local Fusion Transformer）
+    https://github.com/ZhangHanN1/SGLFormer
+  
+- SpikeGPT
+  - https://github.com/ridgerchu/SpikeGPT
+  - https://github.com/ridgerchu/SNN_Attention_VGG
+  
+- BrainTransformer SNN-LLM
+  - https://github.com/LumenScopeAI/BrainTransformers-SNN-LLM
+
 
 ## Review
 
